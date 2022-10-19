@@ -1,8 +1,8 @@
 @font-face {
     font-family: "bahnschrift";
-    src: url("../fonts/Bahnschrift-Font-Family/BAHNSCHRIFT.TTF") format("ttf");
-}
-
+    src: url("../fonts/Bahnschrift-Font-Family/BAHNSCHRIFT.TTF") format("ttf"), url("../fonts/Bahnschrift-Font-Family/BAHNSCHRIFT.woff")
+        format("woff");
+  }
 
 .beginfoto {
     width: 100%;
