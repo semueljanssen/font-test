@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "bahnschrift";
+    src: url("../fonts/Bahnschrift-Font-Family/BAHNSCHRIFT.TTF") format("ttf");
+}
+
+
+.beginfoto {
+    width: 100%;
+    height: 1076px;
+}
+
+h1 {
+    font-family: "bahnschrift";
+}
